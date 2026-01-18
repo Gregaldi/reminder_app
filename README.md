@@ -57,10 +57,10 @@ Simple daily reminder app built with Flutter and BLoC. Reminders are stored loca
 ## Screenshot
 
 ketika notification muncul di foreground
-<img width="500" height="500" alt="simulator_screenshot_538ECBF9-6E24-40C6-8D85-3E478F20BAF0" src="https://github.com/user-attachments/assets/e1e5cb3b-90b9-474d-b04a-599df7bd752d" />
+<img width="200" height="300" alt="simulator_screenshot_538ECBF9-6E24-40C6-8D85-3E478F20BAF0" src="https://github.com/user-attachments/assets/e1e5cb3b-90b9-474d-b04a-599df7bd752d" />
 
 create reminder
-<img width="500" height="500" alt="simulator_screenshot_4549A409-52AE-4C08-B3E5-992B961751FE" src="https://github.com/user-attachments/assets/f9ddf636-aa2d-4ba5-b8ba-bdaaf4585aff" />
+<img width="200" height="300" alt="simulator_screenshot_4549A409-52AE-4C08-B3E5-992B961751FE" src="https://github.com/user-attachments/assets/f9ddf636-aa2d-4ba5-b8ba-bdaaf4585aff" />
 
 
 ## Bonus Features
