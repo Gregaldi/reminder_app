@@ -54,6 +54,12 @@ Simple daily reminder app built with Flutter and BLoC. Reminders are stored loca
 - Ikon pensil membuka form edit untuk mengubah judul atau jam.
 - Ikon tempat sampah menghapus reminder beserta notifikasi terjadwalnya.
 
+## Screenshot
+
+ketika notification muncul di foreground
+<img width="1170" height="2532" alt="simulator_screenshot_538ECBF9-6E24-40C6-8D85-3E478F20BAF0" src="https://github.com/user-attachments/assets/e1e5cb3b-90b9-474d-b04a-599df7bd752d" />
+
+
 
 ## Bonus Features
 
